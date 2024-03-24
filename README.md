@@ -29,7 +29,9 @@ DongHwan Yun 😉
 <h3>📊GitHub Stats & Most Used Languages📊</h3>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun0126&layout=compact" alt="Top Languages">
-  
+</div>
+
+<div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yun0126&show_icons=true&theme=tokyonight)
 </div>
 
