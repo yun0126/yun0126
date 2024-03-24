@@ -5,7 +5,7 @@
 📌MyPortfolio📌<br>
 <a href="https://github.com/yun0126/portfolio">portfolio</a>
 
-Junwoo Kang 😉
+DongHwan Yun 😉
 
  저는 2024.2월말에 한국정보교육원에서 교육을 수료하였고,  소프트웨어학과에서 2024.2월에 졸업하였습니다.
 
